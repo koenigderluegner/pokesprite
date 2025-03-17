@@ -11,7 +11,7 @@
 #   * docs/overview/inventory.html
 #   * docs/index.html
 #
-# These files are hosted on https://msikma.github.io/pokesprite.
+# These files are hosted on https://koenigderluegner.github.io/pokesprite.
 # Existing files will be overwritten.
 
 import json
@@ -30,9 +30,9 @@ MSC_JSON = f'{BASE_DIR}/data/misc.json'
 ITM_UNL_JSON = f'{BASE_DIR}/data/item-unlinked.json'
 ETC_JSON = f'{BASE_DIR}/data/other-sprites.json'
 META_JSON = f'{BASE_DIR}/data/meta.json'
-PROJECT_URL = 'https://github.com/msikma/pokesprite'
-DOCS_BASE_URL = 'https://msikma.github.io/pokesprite'
-REPO_BASE_URL = 'https://raw.githubusercontent.com/msikma/pokesprite/master'
+PROJECT_URL = 'https://github.com/koenigderluegner/pokesprite'
+DOCS_BASE_URL = 'https://koenigderluegner.github.io/pokesprite'
+REPO_BASE_URL = 'https://raw.githubusercontent.com/koenigderluegner/pokesprite/master'
 REPO_PACKAGE = f'{BASE_DIR}/package.json'
 DEX_SPRITE_DIR = { 7: f'{REPO_BASE_URL}/pokemon-gen7x', 8: f'{REPO_BASE_URL}/pokemon-gen8' }
 
@@ -84,7 +84,7 @@ def generate_index_page(version, commit):
     </div>
   ''' % {
     'menu_links': get_menu_links('index'),
-    'example_image': 'https://raw.githubusercontent.com/msikma/pokesprite/master/resources/images/banner_gen8_2x.png',
+    'example_image': 'https://raw.githubusercontent.com/koenigderluegner/pokesprite/master/resources/images/banner_gen8_2x.png',
     'example_image_width': '726',
     'title_sprite': get_title_venusaur(),
     'project_url': PROJECT_URL,
@@ -117,7 +117,7 @@ def wrap_docs_page(table_content, gen, gen_dir, curr_page, json_file, title, is_
     'json_link': json_link
   } if is_misc_page else '''
     <p>This table lists all Pokémon box sprites for <strong>Gen %(gen)s%(subtype)s</strong>, which can be found in the %(gen_link)s directory. The list is up-to-date as of Pokémon Sword/Shield, and some of the sprites are from an earlier generation. All shiny sprites were custom-made and are not found in-game.</p>
-    <p>All box sprites are 68×56 as of Gen 8; the old Gen 7 sprites have been updated to the new size and contrast. (The original 40×30 sprites from Gen 7 are still available <a href="https://github.com/msikma/pokesprite/tree/master/icons">in the legacy sprites directory</a>.)</p>
+    <p>All box sprites are 68×56 as of Gen 8; the old Gen 7 sprites have been updated to the new size and contrast. (The original 40×30 sprites from Gen 7 are still available <a href="https://github.com/koenigderluegner/pokesprite/tree/master/icons">in the legacy sprites directory</a>.)</p>
     <p>
       The data for this list (Pokémon names, forms, etc.) is from the <code>gen-%(gen)s</code> key of the items from %(json_link)s.
       %(new_sprites_only)s
