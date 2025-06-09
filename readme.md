@@ -1,4 +1,4 @@
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokesprite-images.svg)](https://badge.fury.io/js/pokesprite-images) ![Updated for](https://img.shields.io/badge/Updated%20for-Pok%C3%A9mon%20Sword%2FShield%20(Crown%20Tundra%20DLC)-blue)
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokesprite-images.svg)](https://badge.fury.io/js/pokesprite-images) ![Updated for](https://img.shields.io/badge/Updated%20for-Pok%C3%A9mon%20Scarlet%2FViolet%20(The%20Indigo%20Disk%20DLC)-blue)
 
 # PokéSprite
 
@@ -12,7 +12,7 @@ These sprites can be used as individual files, or accessed programmatically usin
 
 ## Sprites and metadata
 
-This project contains both Pokémon box sprites and item sprites. For Pokémon, both the old style sprites from *Pokémon Sun/Moon* (Gen 7) and the new style sprites from *Pokémon Sword/Shield* (Gen 8), including the DLC, are included, as well as a number of unofficial sprites for *Pokémon Legends: Arceus*. Item sprites are available with Gen 8 style white outlines and without.
+This project contains both Pokémon box sprites and item sprites. For Pokémon, both the old style sprites from *Pokémon Sun/Moon* (Gen 7) and the new style sprites from *Pokémon Sword/Shield* (Gen 8), including the DLC, are included, as well as a number of unofficial sprites for later games up to *Pokémon Scarlet/Violet*. Item sprites are available with Gen 8 style white outlines and without.
 
 | Directory | Example | Size | Type | Description |
 |:----------|:-------:|:----------|:-----|:------------|
