@@ -276,7 +276,6 @@ def get_pkm_url(base, slug, is_shiny, is_female, is_right):
   return ''.join([
     base,
     '/regular' if not is_shiny else '/shiny',
-    '/female' if is_female else '',
     '/right' if is_right else '',
     '/',
     slug,
@@ -397,8 +396,7 @@ def append_pkm(cols, base, slug_display, slug_file, form_name, form_alias, has_f
 
 def append_pkm_form(cols, base, slug_display, slug_file, form_name, form_alias, has_female, has_unofficial_female_icon, has_right, add_female, add_right, is_unofficial_icon, is_prev_gen_icon, docs_gen):
   '''Adds columns for a single form: at least two, then female sprites, then right-facing sprites'''
-  append_pkm(cols, base, slug_display, slug_file, form_name, form_alias, has_female, has_unofficial_female_icon, False, False, is_unofficial_icon, is_prev_gen_icon, docs_gen)
-  if has_female and add_female: append_pkm(cols, base, slug_display, slug_file, form_name, form_alias, has_female, has_unofficial_female_icon, True, False, is_unofficial_icon, is_prev_gen_icon, docs_gen)
+  append_pkm(cols, base, slug_display, slug_file, form_name, form_alias, has_female, has_unofficial_female_icon, has_female, False, is_unofficial_icon, is_prev_gen_icon, docs_gen)
   if has_right and add_right: append_pkm(cols, base, slug_display, slug_file, form_name, form_alias, has_female, has_unofficial_female_icon, False, True, is_unofficial_icon, is_prev_gen_icon, docs_gen)
 
 def generate_misc_table(misc, meta, curr_page, json_file, version = '[unknown]', commit = '[unknown]'):
@@ -756,6 +754,7 @@ def generate_dex_table(dex, etc, gen, gen_dir, curr_page, json_file, add_female 
       form_slug_file, form_slug_display, form_alias = determine_form(slug_en, form_name, form_data)
       form_name_clean = EMPTY_PLACEHOLDER if form_name == '$' else form_name
       is_prev_gen_icon = form_data.get('is_prev_gen_icon', False)
+      is_female = (form_name_clean.endswith("-f") or form_name_clean == "f" or form_name_clean.endswith("-female") or form_name_clean == "female" ) and not form_slug_display.startswith('nidoran') and  not form_slug_display.startswith('unown')
       if new_sprites_only and is_prev_gen_icon:
         continue
       append_pkm_form(
@@ -765,8 +764,8 @@ def generate_dex_table(dex, etc, gen, gen_dir, curr_page, json_file, add_female 
         form_slug_file,
         form_name_clean,
         form_alias,
-        form_data.get('has_female', False),
-        form_data.get('has_unofficial_female_icon', False),
+        is_female,
+        is_female and form_data.get('is_unofficial_icon', False),
         form_data.get('has_right', False),
         add_female,
         add_right,
