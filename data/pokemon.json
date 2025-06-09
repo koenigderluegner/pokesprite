@@ -875,13 +875,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "alola-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "belle": {
@@ -894,26 +890,18 @@
           "is_prev_gen_icon": false
         },
         "hoenn-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "kalos-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "libre": {
           "is_prev_gen_icon": true
         },
         "original-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "partner-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "phd": {
@@ -926,23 +914,73 @@
           "is_prev_gen_icon": true
         },
         "sinnoh-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "starter": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "unova-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": true
         },
         "world-cap": {
-          "has_female": true,
-          "has_unofficial_female_icon": true,
+          "is_prev_gen_icon": false
+        },
+        "f": {
+          "is_prev_gen_icon": true
+        },
+        "alola-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "belle-f": {
+          "is_alias_of": "belle",
+          "is_prev_gen_icon": true
+        },
+        "cosplay-f": {
+          "is_alias_of": "cosplay",
+          "is_prev_gen_icon": true
+        },
+        "gmax-f": {
+          "is_alias_of": "gmax",
+          "is_prev_gen_icon": false
+        },
+        "hoenn-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "kalos-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "libre-f": {
+          "is_alias_of": "libre",
+          "is_prev_gen_icon": true
+        },
+        "original-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "partner-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "phd-f": {
+          "is_alias_of": "phd",
+          "is_prev_gen_icon": true
+        },
+        "pop-star-f": {
+          "is_alias_of": "pop-star",
+          "is_prev_gen_icon": true
+        },
+        "rock-star-f": {
+          "is_alias_of": "rock-star",
+          "is_prev_gen_icon": true
+        },
+        "sinnoh-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "starter-f": {
+          "is_prev_gen_icon": true
+        },
+        "unova-cap-f": {
+          "is_prev_gen_icon": true
+        },
+        "world-cap-f": {
           "is_prev_gen_icon": false
         }
       }
@@ -6599,6 +6637,10 @@
           "has_female": true,
           "has_right": false,
           "has_unofficial_female_icon": true,
+          "is_prev_gen_icon": false
+        },
+        "f": {
+          "has_right": false,
           "is_prev_gen_icon": false
         }
       }
@@ -14183,7 +14225,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": true
+        },
+        "f": {
           "is_prev_gen_icon": true
         }
       }
@@ -14213,7 +14257,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": false
+        },
+        "f": {
           "is_prev_gen_icon": false
         }
       }
@@ -16511,7 +16557,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": false
+        },
+        "f": {
           "is_prev_gen_icon": false
         }
       }
@@ -18705,7 +18753,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": true
+        },
+        "f": {
           "is_prev_gen_icon": true
         }
       }
@@ -18735,7 +18785,9 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": false
+        },
+        "f": {
           "is_prev_gen_icon": false
         }
       }
@@ -21558,7 +21610,9 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
+          "has_right": false
+        },
+        "f": {
           "has_right": false
         }
       }
@@ -22047,8 +22101,11 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
           "is_prev_gen_icon": false
+        },
+        "female": {
+          "is_prev_gen_icon": false,
+          "is_unofficial_icon": true
         }
       }
     }
@@ -28468,8 +28525,11 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
           "is_prev_gen_icon": false
+        },
+        "female": {
+          "is_prev_gen_icon": false,
+          "is_unofficial_icon": true
         }
       }
     }
@@ -29123,9 +29183,11 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
           "is_prev_gen_icon": false,
-          "has_unofficial_female_icon": true,
+          "is_unofficial_icon": true
+        },
+        "female": {
+          "is_prev_gen_icon": false,
           "is_unofficial_icon": true
         }
       }
@@ -29470,7 +29532,10 @@
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": false,
+          "is_unofficial_icon": true
+        },
+        "female": {
           "is_prev_gen_icon": false,
           "is_unofficial_icon": true
         }
