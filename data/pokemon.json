@@ -15,8 +15,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -44,8 +42,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -73,12 +69,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -112,8 +104,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -141,8 +131,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -170,16 +158,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega-x": {
-          "has_female": false,
-          "has_right": false
         },
         "mega-y": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -216,8 +198,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -245,8 +225,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -274,12 +252,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -313,8 +287,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -342,8 +314,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -371,8 +341,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -403,8 +371,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -432,8 +398,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -461,12 +425,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -497,8 +457,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -526,8 +484,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -555,12 +511,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -591,12 +543,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -627,21 +575,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "alola"
         },
         "totem-alola": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "alola"
         }
       }
@@ -681,8 +621,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -710,8 +648,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -739,8 +675,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -768,8 +702,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -797,78 +729,92 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "alola-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "belle": {
-          "has_female": false,
           "has_right": true
         },
         "cosplay": {
-          "has_female": false,
-          "has_right": false
         },
         "hoenn-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "kalos-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "libre": {
-          "has_female": false,
-          "has_right": false
         },
         "original-cap": {
-          "has_female": true,
-          "has_right": true,
-          "has_unofficial_female_icon": true
+          "has_right": true
         },
         "partner-cap": {
-          "has_female": true,
-          "has_right": true,
-          "has_unofficial_female_icon": true
+          "has_right": true
         },
         "phd": {
-          "has_female": false,
-          "has_right": false
         },
         "pop-star": {
-          "has_female": false,
           "has_right": true
         },
         "rock-star": {
-          "has_female": false,
-          "has_right": false
         },
         "sinnoh-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "starter": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "unova-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
         },
         "world-cap": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
+        },
+        "f": {
+          "is_unofficial_icon": true
+        },
+        "alola-cap-f": {
+          "is_unofficial_icon": true
+        },
+        "belle-f": {
+          "is_alias_of": "belle",
+          "has_right": true
+        },
+        "cosplay-f": {
+          "is_alias_of": "cosplay"
+        },
+        "hoenn-cap-f": {
+          "is_unofficial_icon": true
+        },
+        "kalos-cap-f": {
+          "is_unofficial_icon": true
+        },
+        "libre-f": {
+          "is_alias_of": "libre"
+        },
+        "original-cap-f": {
+          "has_right": true,
+          "is_unofficial_icon": true
+        },
+        "partner-cap-f": {
+          "has_right": true,
+          "is_unofficial_icon": true
+        },
+        "phd-f": {
+          "is_alias_of": "phd"
+        },
+        "pop-star-f": {
+          "is_alias_of": "pop-star",
+          "has_right": true
+        },
+        "rock-star-f": {
+          "is_alias_of": "rock-star"
+        },
+        "sinnoh-cap-f": {
+          "is_unofficial_icon": true
+        },
+        "starter-f": {
+          "is_unofficial_icon": true
+        },
+        "unova-cap-f": {
+          "is_unofficial_icon": true
+        },
+        "world-cap-f": {
+          "is_unofficial_icon": true
         }
       }
     },
@@ -926,10 +872,12 @@
           "is_prev_gen_icon": false
         },
         "f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "alola-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "belle-f": {
           "is_alias_of": "belle",
@@ -944,7 +892,8 @@
           "is_prev_gen_icon": false
         },
         "hoenn-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "kalos-cap-f": {
           "is_prev_gen_icon": true
@@ -954,10 +903,12 @@
           "is_prev_gen_icon": true
         },
         "original-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "partner-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "phd-f": {
           "is_alias_of": "phd",
@@ -972,16 +923,20 @@
           "is_prev_gen_icon": true
         },
         "sinnoh-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "starter-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "unova-cap-f": {
-          "is_prev_gen_icon": true
+          "is_prev_gen_icon": true,
+          "is_unofficial_icon": true
         },
         "world-cap-f": {
-          "is_prev_gen_icon": false
+          "is_prev_gen_icon": false,
+          "is_unofficial_icon": true
         }
       }
     }
@@ -1002,12 +957,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1038,12 +989,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1074,12 +1021,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1110,8 +1053,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1139,8 +1080,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1168,8 +1107,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1197,8 +1134,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1226,8 +1161,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1255,8 +1188,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1284,7 +1215,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -1313,7 +1243,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -1342,12 +1271,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1378,12 +1303,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1414,7 +1335,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -1443,7 +1363,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -1472,8 +1391,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1501,8 +1418,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1530,8 +1445,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1559,8 +1472,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1588,8 +1499,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1617,8 +1526,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1646,8 +1553,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1675,8 +1580,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1704,8 +1607,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1733,12 +1634,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1769,12 +1666,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1805,12 +1698,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1847,12 +1736,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1883,8 +1768,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1912,8 +1795,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1941,8 +1822,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1970,8 +1849,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -1999,8 +1876,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2032,8 +1907,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2069,8 +1942,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2098,7 +1969,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -2127,7 +1997,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -2156,8 +2025,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2185,8 +2052,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2214,12 +2079,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2250,8 +2111,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2279,8 +2138,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2308,8 +2165,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2340,8 +2195,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2369,8 +2222,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2398,8 +2249,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2427,8 +2276,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2456,8 +2303,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2485,12 +2330,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2521,12 +2362,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2557,12 +2394,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2593,8 +2426,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2625,8 +2456,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2657,12 +2486,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "galar": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2693,12 +2518,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2732,8 +2553,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2761,8 +2580,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2790,8 +2607,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2822,8 +2637,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2851,8 +2664,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2880,8 +2691,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2909,8 +2718,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2938,12 +2745,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -2974,12 +2777,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3010,8 +2809,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3039,8 +2836,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3068,8 +2863,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3097,8 +2890,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3126,12 +2917,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3165,8 +2952,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3194,8 +2979,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3223,8 +3006,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3252,8 +3033,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3281,7 +3060,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -3313,8 +3091,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3346,8 +3122,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3383,8 +3157,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3412,12 +3184,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3448,8 +3216,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3477,21 +3243,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "alola": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "alola"
         },
         "totem-alola": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "alola"
         }
       }
@@ -3531,8 +3289,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3560,8 +3316,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3589,8 +3343,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3618,8 +3370,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3647,8 +3397,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3679,8 +3427,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3708,8 +3454,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3737,8 +3481,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3766,8 +3508,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3795,12 +3535,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3831,8 +3567,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3860,8 +3594,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3889,8 +3621,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3918,8 +3648,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3947,8 +3675,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -3976,8 +3702,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4005,8 +3729,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4037,8 +3759,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4066,8 +3786,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4095,8 +3813,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4124,8 +3840,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4153,12 +3867,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4189,8 +3899,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4230,8 +3938,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4259,12 +3965,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4295,8 +3997,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4327,8 +4027,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4356,12 +4054,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "starter": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4395,8 +4089,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4424,8 +4116,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4453,8 +4143,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4482,8 +4170,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4511,8 +4197,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4540,8 +4224,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4569,8 +4251,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4598,8 +4278,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4627,12 +4305,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4663,8 +4337,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4695,8 +4367,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4727,8 +4397,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4759,8 +4427,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4791,8 +4457,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4820,8 +4484,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4849,8 +4511,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4878,16 +4538,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega-x": {
-          "has_female": false,
-          "has_right": false
         },
         "mega-y": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4921,8 +4575,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4950,8 +4602,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -4979,8 +4629,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5008,8 +4656,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5037,8 +4683,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5066,8 +4710,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5095,8 +4737,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5128,8 +4768,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5157,7 +4795,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -5186,8 +4823,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5215,8 +4850,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5244,8 +4877,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5273,8 +4904,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5302,8 +4931,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5331,8 +4958,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5360,8 +4985,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5389,8 +5012,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5418,8 +5039,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5447,8 +5066,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5476,8 +5093,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5505,8 +5120,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5534,12 +5147,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "spiky-eared": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         }
       }
@@ -5572,7 +5181,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -5601,7 +5209,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -5630,8 +5237,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5659,8 +5264,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5688,8 +5291,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5717,8 +5318,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5746,8 +5345,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5775,8 +5372,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5804,12 +5399,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5840,8 +5431,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5869,8 +5458,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5898,8 +5485,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5927,8 +5512,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -5956,7 +5539,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -5985,8 +5567,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6014,8 +5594,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6043,8 +5621,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6072,8 +5648,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6101,8 +5675,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6130,8 +5702,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6159,8 +5729,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6188,8 +5756,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6221,8 +5787,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6250,8 +5814,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6279,8 +5841,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6308,8 +5868,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6337,8 +5895,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6369,8 +5925,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6398,120 +5952,82 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "a": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "b": {
-          "has_female": false,
           "has_right": true
         },
         "c": {
-          "has_female": false,
           "has_right": true
         },
         "d": {
-          "has_female": false,
           "has_right": true
         },
         "e": {
-          "has_female": false,
           "has_right": true
         },
         "exclamation": {
-          "has_female": false,
-          "has_right": false
         },
         "f": {
-          "has_female": false,
           "has_right": true
         },
         "g": {
-          "has_female": false,
           "has_right": true
         },
         "h": {
-          "has_female": false,
           "has_right": true
         },
         "i": {
-          "has_female": false,
-          "has_right": false
         },
         "j": {
-          "has_female": false,
           "has_right": true
         },
         "k": {
-          "has_female": false,
           "has_right": true
         },
         "l": {
-          "has_female": false,
           "has_right": true
         },
         "m": {
-          "has_female": false,
           "has_right": true
         },
         "n": {
-          "has_female": false,
           "has_right": true
         },
         "o": {
-          "has_female": false,
-          "has_right": false
         },
         "p": {
-          "has_female": false,
           "has_right": true
         },
         "q": {
-          "has_female": false,
           "has_right": true
         },
         "question": {
-          "has_female": false,
           "has_right": true
         },
         "r": {
-          "has_female": false,
           "has_right": true
         },
         "s": {
-          "has_female": false,
           "has_right": true
         },
         "t": {
-          "has_female": false,
           "has_right": true
         },
         "u": {
-          "has_female": false,
-          "has_right": false
         },
         "v": {
-          "has_female": false,
           "has_right": true
         },
         "w": {
-          "has_female": false,
-          "has_right": false
         },
         "x": {
-          "has_female": false,
-          "has_right": false
         },
         "y": {
-          "has_female": false,
-          "has_right": false
         },
         "z": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -6625,23 +6141,20 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true
+        },
+        "f": {
+          "is_unofficial_icon": true
         }
       }
     },
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false,
-          "has_unofficial_female_icon": true,
           "is_prev_gen_icon": false
         },
         "f": {
-          "has_right": false,
-          "is_prev_gen_icon": false
+          "is_prev_gen_icon": false,
+          "is_unofficial_icon": true
         }
       }
     }
@@ -6662,8 +6175,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6691,8 +6202,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6720,8 +6229,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6749,8 +6256,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6778,8 +6283,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6807,12 +6310,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6843,8 +6342,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6872,8 +6369,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6901,8 +6396,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6934,12 +6427,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6970,8 +6459,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -6999,12 +6486,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7035,7 +6518,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -7068,7 +6550,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -7097,8 +6578,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7126,8 +6605,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7155,8 +6632,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7184,8 +6659,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7213,8 +6686,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7242,8 +6713,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7274,8 +6743,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7303,8 +6770,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7332,8 +6797,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7361,8 +6824,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7390,8 +6851,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7419,8 +6878,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7448,12 +6905,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7484,8 +6937,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7513,8 +6964,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7542,8 +6991,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7571,8 +7018,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7600,8 +7045,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7629,8 +7072,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7658,8 +7099,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7687,8 +7126,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7716,8 +7153,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7745,8 +7180,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7774,8 +7207,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7803,8 +7234,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7832,8 +7261,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7861,8 +7288,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7890,8 +7315,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7919,8 +7342,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7948,8 +7369,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -7977,8 +7396,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8006,12 +7423,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8042,8 +7455,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8075,8 +7486,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8104,8 +7513,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8133,8 +7540,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8162,8 +7567,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8191,12 +7594,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8227,8 +7626,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8256,8 +7653,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8285,12 +7680,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8321,8 +7712,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8350,8 +7739,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8379,12 +7766,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8415,8 +7798,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8444,8 +7825,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8473,8 +7852,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8505,8 +7882,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8537,8 +7912,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8566,8 +7939,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8595,8 +7966,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8624,8 +7993,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8653,8 +8020,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8682,8 +8047,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8711,8 +8074,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8740,8 +8101,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8769,8 +8128,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8798,8 +8155,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8827,8 +8182,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8856,8 +8209,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8885,8 +8236,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8914,8 +8263,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8943,8 +8290,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -8972,8 +8317,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9001,8 +8344,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9030,12 +8371,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9066,8 +8403,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9095,8 +8430,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9124,8 +8457,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9153,8 +8484,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9182,8 +8511,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9211,8 +8538,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9240,8 +8565,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9269,8 +8592,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9298,8 +8619,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9327,8 +8646,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9356,8 +8673,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9385,8 +8700,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9414,8 +8727,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9443,8 +8754,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9472,8 +8781,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9501,8 +8808,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9530,8 +8835,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9559,8 +8862,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9588,8 +8889,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9617,12 +8916,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9653,12 +8948,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9689,8 +8980,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9718,8 +9007,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9747,12 +9034,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9783,8 +9066,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9812,12 +9093,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9848,8 +9125,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9877,12 +9152,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9913,8 +9184,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9942,8 +9211,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -9971,8 +9238,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10000,8 +9265,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10029,7 +9292,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -10058,8 +9320,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10087,8 +9347,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10116,8 +9374,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10145,12 +9401,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10181,8 +9433,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10210,8 +9460,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10239,8 +9487,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10268,12 +9514,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10304,8 +9546,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10333,8 +9573,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10362,8 +9600,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10391,17 +9627,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blank": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "filled": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         }
       }
@@ -10438,8 +9668,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10467,8 +9695,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10496,8 +9722,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10525,8 +9749,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10554,8 +9776,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10583,8 +9803,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10612,12 +9830,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10648,7 +9862,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -10677,7 +9890,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -10706,8 +9918,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10735,8 +9945,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10764,8 +9972,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10793,8 +9999,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10822,8 +10026,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10851,8 +10053,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10880,8 +10080,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10909,8 +10107,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10938,8 +10134,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10967,8 +10161,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -10996,8 +10188,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11025,8 +10215,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11054,8 +10242,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11083,8 +10269,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11112,20 +10296,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "rainy": {
-          "has_female": false,
-          "has_right": false
         },
         "snowy": {
-          "has_female": false,
           "has_right": true
         },
         "sunny": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11162,8 +10339,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11191,8 +10366,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11220,12 +10393,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11256,8 +10425,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11285,8 +10452,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11314,8 +10479,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11343,8 +10506,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11372,11 +10533,9 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "mega": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -11408,8 +10567,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11437,8 +10594,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11466,12 +10621,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11502,8 +10653,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11531,8 +10680,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11560,8 +10707,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11589,8 +10734,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11618,8 +10761,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11647,8 +10788,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11676,8 +10815,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11705,8 +10842,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11734,8 +10869,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11763,8 +10896,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11792,12 +10923,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11828,8 +10955,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11857,8 +10982,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11886,12 +11009,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11922,7 +11041,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -11951,8 +11069,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -11980,8 +11096,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12009,12 +11123,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12045,12 +11155,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12081,12 +11187,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "primal": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12117,12 +11219,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "primal": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12153,12 +11251,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12189,8 +11283,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12218,25 +11310,15 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "attack": {
-          "has_female": false,
-          "has_right": false
         },
         "defense": {
-          "has_female": false,
-          "has_right": false
         },
         "normal": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "speed": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12277,8 +11359,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12306,8 +11386,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12335,7 +11413,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -12364,8 +11441,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12393,8 +11468,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12422,8 +11495,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12451,8 +11522,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12480,8 +11549,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12509,8 +11576,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12538,8 +11603,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12567,8 +11630,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12596,8 +11657,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12625,8 +11684,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12654,8 +11711,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12683,8 +11738,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12712,8 +11765,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12741,8 +11792,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12770,8 +11819,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12799,8 +11846,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12828,7 +11873,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -12857,7 +11901,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -12886,8 +11929,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12915,8 +11956,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12944,8 +11983,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -12973,8 +12010,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13002,21 +12037,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "plant": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sandy": {
-          "has_female": false,
-          "has_right": false
         },
         "trash": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13054,21 +12081,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "plant": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sandy": {
-          "has_female": false,
-          "has_right": false
         },
         "trash": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13106,22 +12125,14 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "plant": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sandy": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "trash": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -13162,8 +12173,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13191,8 +12200,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13220,8 +12227,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13249,8 +12254,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13278,8 +12281,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13307,8 +12308,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13336,17 +12335,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "overcast": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sunshine": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13381,16 +12374,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "east": {
-          "has_female": false,
-          "has_right": false
         },
         "west": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -13426,16 +12413,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "east": {
-          "has_female": false,
-          "has_right": false
         },
         "west": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -13471,8 +12452,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13500,8 +12479,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13529,8 +12506,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13558,8 +12533,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13587,12 +12560,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13623,8 +12592,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13652,8 +12619,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13681,8 +12646,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13710,8 +12673,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13739,8 +12700,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13768,8 +12727,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13797,8 +12754,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13826,8 +12781,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13855,8 +12808,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13884,8 +12835,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13913,8 +12862,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13942,8 +12889,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -13971,8 +12916,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14000,8 +12943,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14029,8 +12970,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14058,8 +12997,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14087,12 +13024,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14123,8 +13056,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14152,8 +13083,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14181,12 +13110,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14217,8 +13142,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "f": {
         }
       }
     },
@@ -14249,8 +13174,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "f": {
         }
       }
     },
@@ -14281,8 +13206,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14310,8 +13233,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14339,8 +13260,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14368,8 +13287,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14397,8 +13314,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14426,8 +13341,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14455,8 +13368,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14484,8 +13395,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14513,8 +13422,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14542,12 +13449,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14578,8 +13481,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14607,8 +13508,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14636,8 +13535,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14665,8 +13562,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14694,8 +13589,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14723,8 +13616,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14752,7 +13643,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -14781,7 +13671,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -14810,8 +13699,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14839,8 +13726,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14868,8 +13753,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14897,8 +13780,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14926,8 +13807,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14955,8 +13834,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -14984,12 +13861,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15020,8 +13893,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15049,8 +13920,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15078,8 +13947,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15107,27 +13974,16 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "fan": {
-          "has_female": false,
-          "has_right": false
         },
         "frost": {
-          "has_female": false,
-          "has_right": false
         },
         "heat": {
-          "has_female": false,
-          "has_right": false
         },
         "mow": {
-          "has_female": false,
-          "has_right": false
         },
         "wash": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -15171,8 +14027,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15200,8 +14054,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15229,8 +14081,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15258,8 +14108,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15295,8 +14143,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15332,8 +14178,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15361,8 +14205,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15390,17 +14232,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "altered": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "origin": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15435,8 +14271,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15464,8 +14298,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15493,8 +14325,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15522,8 +14352,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15551,16 +14379,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "land": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sky": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -15596,86 +14419,46 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "bug": {
-          "has_female": false,
-          "has_right": false
         },
         "dark": {
-          "has_female": false,
-          "has_right": false
         },
         "dragon": {
-          "has_female": false,
-          "has_right": false
         },
         "electric": {
-          "has_female": false,
-          "has_right": false
         },
         "fairy": {
-          "has_female": false,
-          "has_right": false
         },
         "fighting": {
-          "has_female": false,
-          "has_right": false
         },
         "fire": {
-          "has_female": false,
-          "has_right": false
         },
         "flying": {
-          "has_female": false,
-          "has_right": false
         },
         "ghost": {
-          "has_female": false,
-          "has_right": false
         },
         "grass": {
-          "has_female": false,
-          "has_right": false
         },
         "ground": {
-          "has_female": false,
-          "has_right": false
         },
         "ice": {
-          "has_female": false,
-          "has_right": false
         },
         "normal": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "poison": {
-          "has_female": false,
-          "has_right": false
         },
         "psychic": {
-          "has_female": false,
-          "has_right": false
         },
         "rock": {
-          "has_female": false,
-          "has_right": false
         },
         "steel": {
-          "has_female": false,
-          "has_right": false
         },
         "unknown": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "water": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15762,8 +14545,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15791,8 +14572,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15820,8 +14599,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15849,8 +14626,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15878,8 +14653,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15907,8 +14680,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15936,7 +14707,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -15965,8 +14735,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -15994,8 +14762,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16023,8 +14789,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16056,8 +14820,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16085,8 +14847,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16114,8 +14874,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16143,8 +14901,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16172,8 +14928,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16201,8 +14955,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16230,8 +14982,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16259,8 +15009,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16288,8 +15036,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16317,7 +15063,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -16346,7 +15091,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -16375,8 +15119,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16404,8 +15146,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16433,8 +15173,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16462,8 +15200,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16491,8 +15227,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16520,8 +15254,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16549,8 +15281,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "f": {
         }
       }
     },
@@ -16581,8 +15313,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16610,8 +15340,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16639,8 +15367,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16668,8 +15394,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16697,8 +15421,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16726,8 +15448,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16755,8 +15475,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16784,7 +15502,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -16813,7 +15530,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -16842,12 +15558,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16878,8 +15590,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16907,8 +15617,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16936,8 +15644,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16965,8 +15671,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -16994,8 +15698,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17023,8 +15725,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17052,8 +15752,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17081,7 +15779,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -17110,8 +15807,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17139,8 +15834,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17168,8 +15861,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17197,8 +15888,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17226,8 +15915,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17255,8 +15942,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17284,8 +15969,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17313,8 +15996,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17342,8 +16023,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17371,7 +16050,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -17408,16 +16086,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blue-striped": {
-          "has_female": false,
-          "has_right": false
         },
         "red-striped": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -17457,8 +16129,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17486,8 +16156,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17515,8 +16183,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17544,8 +16210,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17576,17 +16240,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "standard": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "zen": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17627,8 +16285,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17656,8 +16312,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17685,8 +16339,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17714,8 +16366,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17743,8 +16393,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17772,8 +16420,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17801,8 +16447,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17833,8 +16477,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17862,8 +16504,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17891,8 +16531,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17920,8 +16558,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17949,8 +16585,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -17978,8 +16612,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18007,7 +16639,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -18039,8 +16670,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18072,8 +16701,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18105,8 +16732,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18134,8 +16759,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18163,8 +16786,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18192,8 +16813,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18221,8 +16840,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18250,7 +16867,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -18279,8 +16895,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18308,8 +16922,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18337,8 +16949,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18366,8 +16976,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18395,8 +17003,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18424,8 +17030,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18453,7 +17057,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -18482,25 +17085,15 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "autumn": {
-          "has_female": false,
-          "has_right": false
         },
         "spring": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "summer": {
-          "has_female": false,
-          "has_right": false
         },
         "winter": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18541,25 +17134,15 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "autumn": {
-          "has_female": false,
-          "has_right": false
         },
         "spring": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "summer": {
-          "has_female": false,
-          "has_right": false
         },
         "winter": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18600,8 +17183,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18629,8 +17210,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18658,8 +17237,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18687,8 +17264,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18716,7 +17291,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -18745,8 +17319,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "f": {
         }
       }
     },
@@ -18777,8 +17351,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "f": {
         }
       }
     },
@@ -18809,8 +17383,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18838,8 +17410,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18867,8 +17437,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18896,8 +17464,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18925,8 +17491,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -18954,7 +17518,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -18983,7 +17546,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -19012,7 +17574,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -19041,8 +17602,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19070,8 +17629,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19099,8 +17656,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19128,8 +17683,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19157,8 +17710,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19186,7 +17737,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -19215,8 +17765,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19244,8 +17792,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19273,8 +17819,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19302,8 +17846,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19331,8 +17873,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19360,8 +17900,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19389,8 +17927,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19418,8 +17954,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19447,8 +17981,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19476,8 +18008,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19505,8 +18035,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19537,8 +18065,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19566,8 +18092,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19595,8 +18119,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19624,7 +18146,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -19653,7 +18174,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -19682,8 +18202,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19711,8 +18229,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19740,8 +18256,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19769,8 +18283,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19798,8 +18310,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19831,8 +18341,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19860,8 +18368,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19889,8 +18395,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19918,8 +18422,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19947,8 +18449,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -19976,8 +18476,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20005,8 +18503,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20034,8 +18530,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20063,8 +18557,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20092,8 +18584,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20121,8 +18611,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20150,8 +18638,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20179,17 +18665,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "incarnate": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "therian": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20224,17 +18704,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "incarnate": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "therian": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20269,8 +18743,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20298,8 +18770,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20327,17 +18797,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "incarnate": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "therian": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20372,15 +18836,12 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "black": {
-          "has_female": false,
           "has_right": true
         },
         "white": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -20415,16 +18876,11 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "ordinary": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "resolute": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -20460,17 +18916,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "aria": {
-          "has_female": false,
           "has_right": true,
           "is_alias_of": "$"
         },
         "pirouette": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20505,28 +18957,16 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "burn": {
-          "has_female": false,
-          "has_right": false
         },
         "chill": {
-          "has_female": false,
-          "has_right": false
         },
         "douse": {
-          "has_female": false,
-          "has_right": false
         },
         "shock": {
-          "has_female": false,
-          "has_right": false
         },
         "standard": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20570,8 +19010,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20599,8 +19037,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20628,8 +19064,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20657,8 +19091,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20686,8 +19118,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20715,8 +19145,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20744,8 +19172,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20773,8 +19199,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20802,16 +19226,12 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "ash": {
-          "has_female": false,
           "has_right": true
         },
         "battle-bond": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "ash"
         }
       }
@@ -20847,8 +19267,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20876,8 +19294,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20905,8 +19321,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20934,8 +19348,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20963,8 +19375,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -20992,107 +19402,65 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "archipelago": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "continental": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "elegant": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "fancy": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "garden": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "high-plains": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "icy-snow": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "jungle": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "marine": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "meadow": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "modern": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "monsoon": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "ocean": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "poke-ball": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "polar": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "river": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sandstorm": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "savanna": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sun": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "tundra": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -21201,107 +19569,65 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "archipelago": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "continental": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "elegant": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "fancy": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "garden": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "high-plains": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "icy-snow": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "jungle": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "marine": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "meadow": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "modern": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "monsoon": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "ocean": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "poke-ball": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "polar": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "river": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sandstorm": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "savanna": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "sun": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "tundra": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -21410,89 +19736,47 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "archipelago": {
-          "has_female": false,
-          "has_right": false
         },
         "continental": {
-          "has_female": false,
-          "has_right": false
         },
         "elegant": {
-          "has_female": false,
-          "has_right": false
         },
         "fancy": {
-          "has_female": false,
-          "has_right": false
         },
         "garden": {
-          "has_female": false,
-          "has_right": false
         },
         "high-plains": {
-          "has_female": false,
-          "has_right": false
         },
         "icy-snow": {
-          "has_female": false,
-          "has_right": false
         },
         "jungle": {
-          "has_female": false,
-          "has_right": false
         },
         "marine": {
-          "has_female": false,
-          "has_right": false
         },
         "meadow": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "modern": {
-          "has_female": false,
-          "has_right": false
         },
         "monsoon": {
-          "has_female": false,
-          "has_right": false
         },
         "ocean": {
-          "has_female": false,
-          "has_right": false
         },
         "poke-ball": {
-          "has_female": false,
-          "has_right": false
         },
         "polar": {
-          "has_female": false,
-          "has_right": false
         },
         "river": {
-          "has_female": false,
-          "has_right": false
         },
         "sandstorm": {
-          "has_female": false,
-          "has_right": false
         },
         "savanna": {
-          "has_female": false,
-          "has_right": false
         },
         "sun": {
-          "has_female": false,
-          "has_right": false
         },
         "tundra": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21581,8 +19865,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21610,17 +19892,17 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_right": false
         },
         "f": {
-          "has_right": false
         }
       }
     },
     "gen-8": {
       "forms": {
         "$": {
-          "has_female": true,
+          "is_prev_gen_icon": true
+        },
+        "f": {
           "is_prev_gen_icon": true
         }
       }
@@ -21642,29 +19924,17 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blue": {
-          "has_female": false,
-          "has_right": false
         },
         "orange": {
-          "has_female": false,
-          "has_right": false
         },
         "red": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "white": {
-          "has_female": false,
-          "has_right": false
         },
         "yellow": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21708,33 +19978,19 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blue": {
-          "has_female": false,
-          "has_right": false
         },
         "eternal": {
-          "has_female": false,
-          "has_right": false
         },
         "orange": {
-          "has_female": false,
-          "has_right": false
         },
         "red": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "white": {
-          "has_female": false,
-          "has_right": false
         },
         "yellow": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21781,29 +20037,17 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blue": {
-          "has_female": false,
-          "has_right": false
         },
         "orange": {
-          "has_female": false,
-          "has_right": false
         },
         "red": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "white": {
-          "has_female": false,
-          "has_right": false
         },
         "yellow": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21847,8 +20091,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21876,8 +20118,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21905,8 +20145,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21934,8 +20172,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -21963,49 +20199,28 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "dandy": {
-          "has_female": false,
-          "has_right": false
         },
         "debutante": {
-          "has_female": false,
           "has_right": true
         },
         "diamond": {
-          "has_female": false,
-          "has_right": false
         },
         "heart": {
-          "has_female": false,
-          "has_right": false
         },
         "kabuki": {
-          "has_female": false,
-          "has_right": false
         },
         "la-reine": {
-          "has_female": false,
-          "has_right": false
         },
         "matron": {
-          "has_female": false,
-          "has_right": false
         },
         "natural": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "pharaoh": {
-          "has_female": false,
-          "has_right": false
         },
         "star": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22064,8 +20279,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22093,8 +20306,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": true,
-          "has_right": false
+        },
+        "female": {
         }
       }
     },
@@ -22126,8 +20339,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22155,8 +20366,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22184,16 +20393,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "blade": {
-          "has_female": false,
-          "has_right": false
         },
         "shield": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -22229,8 +20432,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22258,8 +20459,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22287,8 +20486,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22316,8 +20513,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22345,8 +20540,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22374,8 +20567,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22403,8 +20594,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22432,7 +20621,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -22461,8 +20649,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22490,8 +20676,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22519,7 +20703,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -22548,7 +20731,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -22577,8 +20759,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22606,8 +20786,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22635,8 +20813,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22664,8 +20840,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22693,8 +20867,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22722,8 +20894,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22751,7 +20921,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -22780,8 +20949,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22809,8 +20976,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22838,8 +21003,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22867,8 +21030,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22896,8 +21057,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22929,8 +21088,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -22962,7 +21119,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -22991,8 +21147,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23020,8 +21174,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23049,27 +21201,17 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "average": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "large": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "small": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "super": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         }
       }
@@ -23114,27 +21256,17 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "average": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "large": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "small": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "super": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         }
       }
@@ -23179,8 +21311,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23208,8 +21338,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23245,8 +21373,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23274,8 +21400,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23303,16 +21427,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "active": {
-          "has_female": false,
-          "has_right": false
         },
         "neutral": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -23348,8 +21466,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23377,20 +21493,16 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "10": {
-          "has_female": false,
           "has_right": true
         },
         "50": {
-          "has_female": false,
           "has_right": true,
           "is_alias_of": "$"
         },
         "complete": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -23429,12 +21541,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "mega": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23465,12 +21573,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "unbound": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23501,8 +21605,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23530,8 +21632,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23559,7 +21659,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -23588,8 +21687,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23621,8 +21718,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23650,8 +21745,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23679,8 +21772,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23708,8 +21799,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23737,8 +21826,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23766,8 +21853,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23795,8 +21880,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23824,8 +21907,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23853,8 +21934,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23882,8 +21961,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23911,12 +21988,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -23949,8 +22022,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -23978,8 +22049,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24007,12 +22076,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24045,8 +22110,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24074,8 +22137,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24103,25 +22164,15 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "baile": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "pau": {
-          "has_female": false,
-          "has_right": false
         },
         "pom-pom": {
-          "has_female": false,
-          "has_right": false
         },
         "sensu": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24162,8 +22213,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24191,12 +22240,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24229,12 +22274,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "own-tempo": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24267,21 +22308,13 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "dusk": {
-          "has_female": false,
-          "has_right": false
         },
         "midday": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "midnight": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24319,16 +22352,10 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "school": {
-          "has_female": false,
-          "has_right": false
         },
         "solo": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24364,8 +22391,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24393,8 +22418,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24422,8 +22445,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24451,8 +22472,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24480,8 +22499,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24509,12 +22526,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24547,8 +22560,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24576,12 +22587,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24614,8 +22621,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24643,8 +22648,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24672,8 +22675,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24701,12 +22702,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -24739,8 +22736,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24768,8 +22763,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24797,8 +22790,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24826,7 +22817,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -24855,7 +22845,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -24884,7 +22873,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -24913,8 +22901,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24942,8 +22928,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -24971,8 +22955,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25000,8 +22982,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25029,8 +23009,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25058,8 +23036,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25087,8 +23063,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25116,8 +23090,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25145,97 +23117,59 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "bug": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "dark": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "dragon": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "electric": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "fairy": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "fighting": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "fire": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "flying": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "ghost": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "grass": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "ground": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "ice": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "normal": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "poison": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "psychic": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "rock": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "steel": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         },
         "water": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_icon": true
         }
       }
@@ -25336,105 +23270,76 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "blue": {
-          "has_female": false,
           "has_right": true
         },
         "blue-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "blue-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "green": {
-          "has_female": false,
           "has_right": true
         },
         "green-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "green-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "indigo": {
-          "has_female": false,
           "has_right": true
         },
         "indigo-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "indigo-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "orange": {
-          "has_female": false,
           "has_right": true
         },
         "orange-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "orange-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "red": {
-          "has_female": false,
           "has_right": true
         },
         "red-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "red-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "violet": {
-          "has_female": false,
           "has_right": true
         },
         "violet-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "violet-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "yellow": {
-          "has_female": false,
           "has_right": true
         },
         "yellow-gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         },
         "yellow-meteor": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -25540,8 +23445,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25569,8 +23472,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25598,12 +23499,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -25636,32 +23533,20 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "busted": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "disguised": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "totem-busted": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         },
         "totem-disguised": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -25710,8 +23595,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25739,8 +23622,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25768,7 +23649,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -25797,8 +23677,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25826,8 +23704,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25855,12 +23731,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "totem": {
-          "has_female": false,
-          "has_right": false,
           "is_alias_of": "$"
         }
       }
@@ -25893,8 +23765,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25922,8 +23792,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25951,8 +23819,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -25980,8 +23846,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26009,8 +23873,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26038,8 +23900,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26067,8 +23927,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26096,8 +23954,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26125,8 +23981,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26154,8 +24008,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26183,8 +24035,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26212,8 +24062,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26241,8 +24089,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26270,8 +24116,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26299,8 +24143,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26328,19 +24170,15 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "dawn": {
-          "has_female": false,
           "has_right": true
         },
         "dusk": {
-          "has_female": false,
           "has_right": true
         },
         "ultra": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -26378,12 +24216,8 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         },
         "original": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26414,11 +24248,9 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         },
         "gen7": {
-          "has_female": false,
           "has_right": true,
           "is_unofficial_icon": true
         }
@@ -26452,8 +24284,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26481,8 +24311,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26510,7 +24338,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
           "has_right": true
         }
       }
@@ -26539,8 +24366,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26568,8 +24393,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26597,8 +24420,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false
         }
       }
     },
@@ -26626,8 +24447,6 @@
     "gen-7": {
       "forms": {
         "$": {
-          "has_female": false,
-          "has_right": false,
           "is_unofficial_legacy_icon": true
         }
       }
